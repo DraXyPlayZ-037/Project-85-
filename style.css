@@ -1,0 +1,18 @@
+body {
+    background-image: url("urban-park-clip-art-park-cartoon.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#mycanvas {
+    margin-top: 25px;
+    border: rgb(255, 104, 104) 10px ridge;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#nohi {
+    color: red;
+    font-family: fantasy;
+}
